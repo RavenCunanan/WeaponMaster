@@ -112,7 +112,7 @@ def play_game():
     # Main game loop
     print("Welcome to the world of WeaponMaster, where you will duel an AI opponent with a variety of weapons. (Sword beats Axe, Axe beats Lance, Lance beats Sword, and Dagger is neutral.)")
     print("")
-    print("Do your best to defeat your opponent bRaveefore they can defeat you. Good Luck.")
+    print("Do your best to defeat your opponent before they can defeat you. Good Luck.")
     print("")
     player_name = input("Enter your name: ")
     print("")
